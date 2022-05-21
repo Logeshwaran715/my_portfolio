@@ -63,7 +63,7 @@ function Resume() {
 							title="B.Tech -Computer Science and Engineering"
 							instituion="Amrita School of Engineering"
 							date="2018 - Present"
-							content={[`CGPA: 8.97 (Till 5th Sem)`]}
+							content={[`CGPA:8.82 (Till 7th Sem)`]}
 						/>
 						<Resumecontent
 							title="12TH BOARD [CBSE]"

@@ -54,6 +54,18 @@ function Resume() {
 								"Database:SQLite",
 							]}
 						/>
+						<h3 className="resume-title">
+							<strong className="purple">Internship</strong>
+						</h3>
+						<Resumecontent
+							title="Intern at Caterpillar"
+							date="01/2022 – 06/2022"
+							content={[
+								"Backend Developer for webapps at Caterpillar.",
+								" Framework: Spring,Java,Hibernate,Azure",
+								"Database:SQLServer",
+							]}
+						/>
 					</Col>
 					<Col md={6} className="resume-right">
 						<h3 className="resume-title">

@@ -8,8 +8,17 @@ import {
 	DiMongodb,
 	DiPython,
 	DiGit,
+	DiJava,
 } from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
+import {
+	SiPytorch,
+	SiTensorflow,
+	SiFirebase,
+	SiJava,
+	SiSpring,
+	SiHibernate,
+	SiMicrosoftazure,
+} from "react-icons/si";
 
 function Techstack() {
 	return (
@@ -29,6 +38,18 @@ function Techstack() {
 			</Col>
 			<Col xs={4} md={2} className="tech-icons">
 				<DiJavascript1 />
+			</Col>
+			<Col xs={4} md={2} className="tech-icons">
+				<SiMicrosoftazure />
+			</Col>
+			<Col xs={4} md={2} className="tech-icons">
+				<DiJava />
+			</Col>
+			<Col xs={4} md={2} className="tech-icons">
+				<SiHibernate />
+			</Col>
+			<Col xs={4} md={2} className="tech-icons">
+				<SiSpring />
 			</Col>
 		</Row>
 	);

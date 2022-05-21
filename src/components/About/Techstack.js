@@ -9,11 +9,16 @@ import {
 	DiPython,
 	DiGit,
 	DiJava,
+} from "react-icons/di";
+import {
+	SiPytorch,
+	SiTensorflow,
+	SiFirebase,
+	SiJava,
 	SiSpring,
 	SiHibernate,
 	SiMicrosoftazure,
-} from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase, SiJava } from "react-icons/si";
+} from "react-icons/si";
 
 function Techstack() {
 	return (
